@@ -1,2 +1,2 @@
-# hello_world_rust
+# Hello World Rust
 Super simple hello world Rust
