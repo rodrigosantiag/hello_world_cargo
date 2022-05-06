@@ -1,2 +1,2 @@
-# Hello World Rust
-Super simple hello world Rust
+# Hello World Cargo
+Super simple hello world Cargo
